@@ -12,6 +12,9 @@ import com.azienda.jdbcEsercizio.model.Automobile;
 
 public class ChiamanteAutomobile {
 
+	//Sono qui
+	
+	
 	public static void main(String[] args) {
 		String dbUrl = "jdbc:mysql://localhost:3306/eserciziojdbc?useSSL=false&serverTimezone=UTC";
 		String dbUser = "root";
