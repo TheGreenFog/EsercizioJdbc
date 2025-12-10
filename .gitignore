@@ -1,4 +1,5 @@
 .settings/
+.settings
 bin/
 lib/
 .classpath
